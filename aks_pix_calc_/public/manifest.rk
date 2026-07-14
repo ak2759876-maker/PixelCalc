@@ -1,0 +1,39 @@
+{
+  "short_name": "AK Calculator",
+  "name": "AK React Calculator | JavaScript & React Project by Ayush Kumar",
+  "description": "A modern calculator web application built using React.js. Developed by Ayush Kumar as part of my GitHub portfolio.",
+  "icons": [
+    {
+      "src": "favicon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#2563EB",
+  "background_color": "#0F172A",
+  "lang": "en",
+  "categories": [
+    "productivity",
+    "utilities",
+    "education"
+  ]
+}
